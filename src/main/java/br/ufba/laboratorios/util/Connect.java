@@ -1,4 +1,4 @@
-package br.ufba.laboratorios.connection;
+package br.ufba.laboratorios.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

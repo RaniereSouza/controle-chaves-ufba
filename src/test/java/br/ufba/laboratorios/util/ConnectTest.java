@@ -1,4 +1,4 @@
-package br.ufba.laboratorios.connection;
+package br.ufba.laboratorios.util;
 
 import junit.framework.TestCase;
 
